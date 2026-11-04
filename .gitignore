@@ -1,0 +1,25 @@
+# Original forensic evidence
+*.E01
+*.E02
+*.E03
+*.001
+*.dd
+*.raw
+*.img
+*.aff
+*.aff4
+
+# Autopsy case files
+autopsy_cases/
+
+# Database and temporary files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.tmp
+*.temp
+
+# Private examination material
+private/
